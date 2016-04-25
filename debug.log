@@ -1,0 +1,117 @@
+[0425/193913:ERROR:process_reader_win.cc(141)] SuspendThread: Ingen tilgang. (0x5)
+[0425/193914:ERROR:process_reader_win.cc(141)] SuspendThread: Ingen tilgang. (0x5)
+[0425/193914:ERROR:exception_snapshot_win.cc(56)] thread ID 10636 not found in process
+[0425/193914:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0425/193914:ERROR:process_reader_win.cc(113)] NtOpenThread: Det ble angitt en ugyldig klient-ID.  (0xc000000b)
+[0425/193914:ERROR:process_reader_win.cc(113)] NtOpenThread: Det ble angitt en ugyldig klient-ID.  (0xc000000b)
+[0425/193914:ERROR:process_reader_win.cc(113)] NtOpenThread: Det ble angitt en ugyldig klient-ID.  (0xc000000b)
+[0425/193914:ERROR:process_reader_win.cc(113)] NtOpenThread: Det ble angitt en ugyldig klient-ID.  (0xc000000b)
+[0425/193914:ERROR:process_reader_win.cc(113)] NtOpenThread: Det ble angitt en ugyldig klient-ID.  (0xc000000b)
+[0425/193914:ERROR:process_reader_win.cc(113)] NtOpenThread: Det ble angitt en ugyldig klient-ID.  (0xc000000b)
+[0425/193914:ERROR:process_reader_win.cc(113)] NtOpenThread: Det ble angitt en ugyldig klient-ID.  (0xc000000b)
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x1380000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76e90000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76a30000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNELBASE.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x763f0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\KERNEL32.DLL
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71df0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\system32\apphelp.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75c60000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\msvcrt.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75d20000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ab0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73ac0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SspiCli.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ad0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\RPCRT4.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76220000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\sechost.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75f70000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ADVAPI32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x65400000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\49.0.2623.112\chrome_elf.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6f7e0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x739f0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75150000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\cfgmgr32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72760000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75980000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\GDI32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76020000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USER32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750d0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IMM32.DLL
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72790000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b80000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\profapi.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73530000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x737f0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WTSAPI32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76bb0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\combase.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75100000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shlwapi.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75bf0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75890000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\shcore.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75d80000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\powrprof.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x764d0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\windows.storage.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73af0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\SHELL32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76010000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\PSAPI.DLL
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73510000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\bcrypt.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73780000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x715d0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b90000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\FirewallAPI.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71c80000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\fwbase.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75ff0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\NETAPI32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71e90000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\DAVHLPR.DLL
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75dd0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\COMDLG32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75780000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\ole32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75030000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\OLEAUT32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x734e0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75720000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WS2_32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76200000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\USP10.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76270000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\MSASN1.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x755a0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPT32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75c10000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\WINTRUST.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x71dc0000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x60600000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\49.0.2623.112\chrome_child.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6fb00000 of 64 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\WINDOWS\SYSTEM32\dwrite.dll
+[0425/193914:ERROR:process_reader_win.cc(232)] ReadMemory at 0x142c154 of 12 bytes failed: Bare deler av en ReadProcessMemory- eller WriteProcessMemory-forespørsel ble fullført. (0x12B)
+[0425/193914:WARNING:process_snapshot_win.cc(89)] ReadMemory ExceptionInformation failed
+[0425/193914:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0425/193914:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
