@@ -1,0 +1,19 @@
+
+.stilig {
+    background-color:red;
+    color:white;
+    text-decoration: none;
+    padding: 20px 100px 20px 100px;
+    border-radius: 35px;
+    border-style: outset;
+    border-color: red;
+    width: 500px;
+    height: 500px;
+    font-size: 500%;
+    font-family: "Wingdings", monospace, fantasy, cursive;
+    font-stretch:extra-expanded;
+    }
+.stilig:hover{
+    background-color: aqua;
+    background-color: aqua
+}
